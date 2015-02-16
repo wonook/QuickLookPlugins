@@ -55,3 +55,16 @@ Preview contents of archives
 Preview contents of a package file
 
     $ brew cask install suspicious-package
+
+
+----
+
+## Additional stuff
+
+### To be able to select/copy text right from quicklook, run the following command in terminal:
+
+    $ defaults write com.apple.finder QLEnableTextSelection -bool TRUE;killall Finder
+
+to reset the settings:
+
+    $ defaults delete com.apple.finder QLEnableTextSelection;killall Finder
