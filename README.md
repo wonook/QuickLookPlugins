@@ -6,8 +6,10 @@ Some plugins for quick-look function for mac OS X
 - We'll be using Homebrew Cask (https://github.com/caskroom/homebrew-cask)
 With Homebrew installed, run:
 
+
     $ brew install caskroom/cask/brew-cask
 
+to install brew-cask and run $ brew cask .. commands
 ----
 ## List of useful plugins
 
