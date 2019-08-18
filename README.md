@@ -9,7 +9,7 @@ With Homebrew installed, run:
 
     $ brew install caskroom/cask/brew-cask
 
-to install brew-cask and run $ brew cask .. commands
+to install brew-cask and run `$ brew cask` .. commands
 
 ----
 
@@ -36,7 +36,7 @@ Preview Markdown files w/ styles
     $ brew cask install qlmarkdown
 
 
-### QLSpephen
+### QLStephen
 
 Preview plain text files without a file extension. e.g. README, CHANGELOG, Gemfile etc.
 
